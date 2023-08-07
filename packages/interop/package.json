@@ -65,7 +65,7 @@
     "ipfsd-ctl": "^13.0.0",
     "it-to-buffer": "^4.0.2",
     "kubo-rpc-client": "^3.0.0",
-    "libp2p": "^0.45.3",
+    "libp2p": "^0.46.3",
     "merge-options": "^3.0.4",
     "multiformats": "^11.0.1",
     "p-defer": "^4.0.0",
