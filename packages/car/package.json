@@ -169,7 +169,7 @@
   },
   "devDependencies": {
     "@helia/unixfs": "^1.2.2",
-    "aegir": "^39.0.8",
+    "aegir": "^40.0.9",
     "blockstore-core": "^4.0.1",
     "ipfs-unixfs-importer": "^15.1.0",
     "it-drain": "^3.0.1",
