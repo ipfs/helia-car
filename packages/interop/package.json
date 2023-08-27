@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@helia/car": "^1.0.0",
-    "@helia/interface": "^1.0.0",
+    "@helia/interface": "^2.0.0",
     "@helia/unixfs": "^1.2.2",
     "@ipld/car": "^5.1.1",
     "@libp2p/websockets": "^6.0.1",
