@@ -53,7 +53,7 @@
     "@helia/interface": "^2.0.0",
     "@helia/unixfs": "^1.2.2",
     "@ipld/car": "^5.1.1",
-    "@libp2p/websockets": "^7.0.5",
+    "@libp2p/websockets": "^8.0.0",
     "aegir": "^41.0.0",
     "go-ipfs": "^0.22.0",
     "helia": "^2.0.1",
