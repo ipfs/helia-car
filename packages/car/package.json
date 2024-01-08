@@ -160,7 +160,7 @@
     "@ipld/dag-pb": "^4.0.0",
     "@libp2p/interfaces": "^3.3.1",
     "cborg": "^4.0.3",
-    "interface-blockstore": "^5.0.0",
+    "it-drain": "^3.0.5",
     "it-map": "^3.0.3",
     "multiformats": "^13.0.0",
     "p-defer": "^4.0.0",
@@ -171,8 +171,8 @@
     "@helia/unixfs": "^2.0.0",
     "aegir": "^42.0.1",
     "blockstore-core": "^4.0.1",
+    "interface-blockstore": "^5.2.9",
     "ipfs-unixfs-importer": "^15.1.0",
-    "it-drain": "^3.0.1",
     "it-to-buffer": "^4.0.2"
   }
 }
